@@ -1,7 +1,5 @@
 # Accomplishments
 
-Here's the text with "Badge Image:" removed:
-
 CompTIA Pentest+ Cert Prep Automation Ready Badge name:CompTIA Pentest+ Cert Prep Automation Ready Issued by:DIVERGENCE ACADEMY Verifiedissuer Badge description:Earned the badge by applying the Reporting & Communications skills to complete the labs in the Automation learning category , and engaging in the classroom with peers and the learning environment in C… Issued on:May 31, 2024
 
 New CompTIA Pentest+ Cert Prep Architecture Ready Badge name:CompTIA Pentest+ Cert Prep Architecture Ready Issued by:DIVERGENCE ACADEMY Verifiedissuer Badge description:Earned the badge by applying the Planning & Scoping skills to complete the labs in the Architecture learning category, and engaging in the classroom with peers and the learning environment in Canvas. Issued on:May 31, 2024
